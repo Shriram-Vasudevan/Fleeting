@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Lato-Black</string>
+		<string>Lato-BlackItalic</string>
+		<string>Lato-Bold</string>
+		<string>Lato-BoldItalic</string>
+		<string>Lato-Italic</string>
+		<string>Lato-Light</string>
+		<string>Lato-LightItalic</string>
+		<string>Lato-Regular</string>
+		<string>Lato-Thin</string>
+		<string>Lato-ThinItalic</string>
+	</array>
+</dict>
+</plist>
